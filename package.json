@@ -1,0 +1,19 @@
+{
+  "name": "api-framework",
+  "version": "1.0.0",
+  "description": "An ultra-fast REST API framework focused on OpenAPI 3.0 and JSON API 1.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZornCo/not-yet-named.git"
+  },
+  "author": "\"Timothy Zorn\" <tim@zornco.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ZornCo/not-yet-named/issues"
+  },
+  "homepage": "https://github.com/ZornCo/not-yet-named#readme"
+}

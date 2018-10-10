@@ -1,3 +1,9 @@
+# build dir
+/build/
+
+# distributable dir
+/dist/
+
 # Logs
 logs
 *.log
